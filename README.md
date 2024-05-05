@@ -7,7 +7,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Fas
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fastapi-sqlalchemy-crud.git
+git clone https://github.com/Shullyd7/fastapi-crud.git
 ```
 
 2. Install the requirements:
